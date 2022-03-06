@@ -1,4 +1,7 @@
-# Notion Guardian
+# Notion Guardian for JimmyLv's Workspace
+
+> https://www.notion.so/jimmylv/89000d3ea8bc49be91a5efe5e5cea048
+> https://github.com/JimmyLv/notion-backup-guardian
 
 A tool that automatically backups your [Notion](notion.so) workspace and commits changes to another repository.
 
